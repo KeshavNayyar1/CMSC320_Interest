@@ -1,0 +1,5 @@
+I am intereted in CMSC320 because data science is an important field. 
+It is used in many different fields, such as healtcare, finance, technology, etc.
+Large datasets need to be analyzed and interpreted in order to optimize operations and 
+make impacts to society. There is also a growing demand for data scientists, allowing 
+for many job opportunities. These are a few reasons for why I am interested in CMSC320. 
